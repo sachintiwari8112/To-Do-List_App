@@ -1,2 +1,2 @@
-# To-Do-List_App
-This is a to do list project.
+# Web-Development-Project
+All about HTML CSS JS
