@@ -1,2 +1,2 @@
-# Web-Development-Project
+# Web-Development-Projects
 All about HTML CSS JS
